@@ -7,9 +7,10 @@ See photos and video [here](https://drive.google.com/drive/folders/1-DJUlh44Fr48
 
 ## Built with
 * Arduino Uno
-* LEDs
-* Servo Motor
-* Buttons
+  * LEDs
+  * Servo Motor
+  * Buttons
 * Processing
+* Voice Recordings from [Books Alive!](https://www.youtube.com/watch?v=489micE6eHU)
 * Craft Supplies
 * Crayons!!!
