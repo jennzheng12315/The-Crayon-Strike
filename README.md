@@ -11,4 +11,5 @@ See photos and video [here](https://drive.google.com/drive/folders/1-DJUlh44Fr48
 * Servo Motor
 * Buttons
 * Processing
+* Craft Supplies
 * Crayons!!!
